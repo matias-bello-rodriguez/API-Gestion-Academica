@@ -1,4 +1,4 @@
-# FlaskAPI - Gestión Académica 📊  
+# API - Gestión Académica 📊  
 **Sistema de evaluación y análisis de datos académicos**  
 
 API robusta para gestión de calificaciones, generación de reportes estadísticos y seguimiento del desempeño estudiantil, construida con Django REST Framework.
